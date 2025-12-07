@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RangeBrothers — Premium Phones in Malawi</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+<header class="navbar">
+  <div class="nav-left">
+    <a href="index.html">
+      <img src="img/rangebrothers-logo.png" class="logo" />
+    </a>
+    <span class="brand-name">RangeBrothers</span>
+  </div>
+
+  <nav class="nav-links">
+    <a href="index.html#shop">Shop</a>
+    <a href="product.html?id=iphone-11">Example Product</a>
+  </nav>
+
+  <button id="cartButton" class="cart-btn">
+    🛒 <span id="cartCount">0</span>
+  </button>
+</header>
+
+<section class="hero">
+  <h1>Premium iPhones Delivered in Malawi</h1>
+  <p>Imported. Brand New. Trusted Seller.</p>
+  <a href="#shop" class="btn-main">Shop Now</a>
+</section>
+
+<section id="shop" class="section">
+  <h2>Available Phones</h2>
+  <div id="productsGrid" class="product-grid"></div>
+</section>
+
+<!-- CART OVERLAY -->
+<div id="cartOverlay" class="cart-overlay hidden">
+  <div class="cart-content">
+    <button id="cartClose">✕</button>
+    <h3>Your Cart</h3>
+    <div id="cartItems"></div>
+    <div class="cart-footer">
+      <p>Total: <span id="cartTotal">MWK 0</span></p>
+      <a id="cartWhatsApp" class="btn-main" target="_blank">Order on WhatsApp</a>
+      <button id="clearCart" class="btn-outline">Clear Cart</button>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <p>© <span id="year"></span> RangeBrothers</p>
+</footer>
+
+<script src="main.js?v=1"></script>
+</body>
+</html>
