@@ -1,0 +1,728 @@
+[
+  {
+    "id": "iphone-x",
+    "name": "iPhone X",
+    "storages": [
+      {
+        "size": "64GB",
+        "price_mwk": 950000,
+        "colors": [
+          { "name": "Space Gray", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "256GB",
+        "price_mwk": 1100000,
+        "colors": [
+          { "name": "Space Gray", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-xr",
+    "name": "iPhone XR",
+    "storages": [
+      {
+        "size": "64GB",
+        "price_mwk": 1100000,
+        "colors": [
+          { "name": "Black", "image": "img/iphone-placeholder.svg" },
+          { "name": "White", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Yellow", "image": "img/iphone-placeholder.svg" },
+          { "name": "Coral", "image": "img/iphone-placeholder.svg" },
+          { "name": "(PRODUCT)RED", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "128GB",
+        "price_mwk": 1250000,
+        "colors": [
+          { "name": "Black", "image": "img/iphone-placeholder.svg" },
+          { "name": "White", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Yellow", "image": "img/iphone-placeholder.svg" },
+          { "name": "Coral", "image": "img/iphone-placeholder.svg" },
+          { "name": "(PRODUCT)RED", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-11",
+    "name": "iPhone 11",
+    "storages": [
+      {
+        "size": "64GB",
+        "price_mwk": 1300000,
+        "colors": [
+          { "name": "Black", "image": "img/iphone-placeholder.svg" },
+          { "name": "White", "image": "img/iphone-placeholder.svg" },
+          { "name": "Green", "image": "img/iphone-placeholder.svg" },
+          { "name": "Yellow", "image": "img/iphone-placeholder.svg" },
+          { "name": "Purple", "image": "img/iphone-placeholder.svg" },
+          { "name": "(PRODUCT)RED", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "128GB",
+        "price_mwk": 1400000,
+        "colors": [
+          { "name": "Black", "image": "img/iphone-placeholder.svg" },
+          { "name": "White", "image": "img/iphone-placeholder.svg" },
+          { "name": "Green", "image": "img/iphone-placeholder.svg" },
+          { "name": "Yellow", "image": "img/iphone-placeholder.svg" },
+          { "name": "Purple", "image": "img/iphone-placeholder.svg" },
+          { "name": "(PRODUCT)RED", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-11-pro",
+    "name": "iPhone 11 Pro",
+    "storages": [
+      {
+        "size": "64GB",
+        "price_mwk": 1550000,
+        "colors": [
+          { "name": "Midnight Green", "image": "img/iphone-placeholder.svg" },
+          { "name": "Space Gray", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "256GB",
+        "price_mwk": 1650000,
+        "colors": [
+          { "name": "Midnight Green", "image": "img/iphone-placeholder.svg" },
+          { "name": "Space Gray", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-11-pro-max",
+    "name": "iPhone 11 Pro Max",
+    "storages": [
+      {
+        "size": "64GB",
+        "price_mwk": 1750000,
+        "colors": [
+          { "name": "Midnight Green", "image": "img/iphone-placeholder.svg" },
+          { "name": "Space Gray", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "256GB",
+        "price_mwk": 1850000,
+        "colors": [
+          { "name": "Midnight Green", "image": "img/iphone-placeholder.svg" },
+          { "name": "Space Gray", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-12",
+    "name": "iPhone 12",
+    "storages": [
+      {
+        "size": "64GB",
+        "price_mwk": 1400000,
+        "colors": [
+          { "name": "Black", "image": "img/iphone-placeholder.svg" },
+          { "name": "White", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Green", "image": "img/iphone-placeholder.svg" },
+          { "name": "Purple", "image": "img/iphone-placeholder.svg" },
+          { "name": "(PRODUCT)RED", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "128GB",
+        "price_mwk": 1500000,
+        "colors": [
+          { "name": "Black", "image": "img/iphone-placeholder.svg" },
+          { "name": "White", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Green", "image": "img/iphone-placeholder.svg" },
+          { "name": "Purple", "image": "img/iphone-placeholder.svg" },
+          { "name": "(PRODUCT)RED", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "iphone-12-pro",
+    "name": "iPhone 12 Pro",
+    "storages": [
+      {
+        "size": "128GB",
+        "price_mwk": 1700000,
+        "colors": [
+          { "name": "Pacific Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Graphite", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "256GB",
+        "price_mwk": 1800000,
+        "colors": [
+          { "name": "Pacific Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Graphite", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-12-pro-max",
+    "name": "iPhone 12 Pro Max",
+    "storages": [
+      {
+        "size": "128GB",
+        "price_mwk": 1800000,
+        "colors": [
+          { "name": "Pacific Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Graphite", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "256GB",
+        "price_mwk": 1950000,
+        "colors": [
+          { "name": "Pacific Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Graphite", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "512GB",
+        "price_mwk": 2000000,
+        "colors": [
+          { "name": "Pacific Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Graphite", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-13",
+    "name": "iPhone 13",
+    "storages": [
+      {
+        "size": "128GB",
+        "price_mwk": 2050000,
+        "colors": [
+          { "name": "Midnight", "image": "img/iphone-placeholder.svg" },
+          { "name": "Starlight", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Pink", "image": "img/iphone-placeholder.svg" },
+          { "name": "Green", "image": "img/iphone-placeholder.svg" },
+          { "name": "(PRODUCT)RED", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "256GB",
+        "price_mwk": 2150000,
+        "colors": [
+          { "name": "Midnight", "image": "img/iphone-placeholder.svg" },
+          { "name": "Starlight", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Pink", "image": "img/iphone-placeholder.svg" },
+          { "name": "Green", "image": "img/iphone-placeholder.svg" },
+          { "name": "(PRODUCT)RED", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-13-pro",
+    "name": "iPhone 13 Pro",
+    "storages": [
+      {
+        "size": "128GB",
+        "price_mwk": 2400000,
+        "colors": [
+          { "name": "Graphite", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" },
+          { "name": "Sierra Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Alpine Green", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "256GB",
+        "price_mwk": 2500000,
+        "colors": [
+          { "name": "Graphite", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" },
+          { "name": "Sierra Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Alpine Green", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "512GB",
+        "price_mwk": 2600000,
+        "colors": [
+          { "name": "Graphite", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" },
+          { "name": "Sierra Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Alpine Green", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-13-pro-max",
+    "name": "iPhone 13 Pro Max",
+    "storages": [
+      {
+        "size": "128GB",
+        "price_mwk": 2500000,
+        "colors": [
+          { "name": "Graphite", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" },
+          { "name": "Sierra Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Alpine Green", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "256GB",
+        "price_mwk": 2700000,
+        "colors": [
+          { "name": "Graphite", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" },
+          { "name": "Sierra Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Alpine Green", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "512GB",
+        "price_mwk": 2800000,
+        "colors": [
+          { "name": "Graphite", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" },
+          { "name": "Sierra Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Alpine Green", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "1TB",
+        "price_mwk": 2900000,
+        "colors": [
+          { "name": "Graphite", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" },
+          { "name": "Sierra Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Alpine Green", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-14",
+    "name": "iPhone 14",
+    "storages": [
+      {
+        "size": "128GB",
+        "price_mwk": 2400000,
+        "colors": [
+          { "name": "Midnight", "image": "img/iphone-placeholder.svg" },
+          { "name": "Starlight", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Purple", "image": "img/iphone-placeholder.svg" },
+          { "name": "(PRODUCT)RED", "image": "img/iphone-placeholder.svg" },
+          { "name": "Yellow", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "256GB",
+        "price_mwk": 2600000,
+        "colors": [
+          { "name": "Midnight", "image": "img/iphone-placeholder.svg" },
+          { "name": "Starlight", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Purple", "image": "img/iphone-placeholder.svg" },
+          { "name": "(PRODUCT)RED", "image": "img/iphone-placeholder.svg" },
+          { "name": "Yellow", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-14-plus",
+    "name": "iPhone 14 Plus",
+
+      "storages": [
+      {
+        "size": "128GB",
+        "price_mwk": 2600000,
+        "colors": [
+          { "name": "Midnight", "image": "img/iphone-placeholder.svg" },
+          { "name": "Starlight", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Purple", "image": "img/iphone-placeholder.svg" },
+          { "name": "(PRODUCT)RED", "image": "img/iphone-placeholder.svg" },
+          { "name": "Yellow", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "256GB",
+        "price_mwk": 2700000,
+        "colors": [
+          { "name": "Midnight", "image": "img/iphone-placeholder.svg" },
+          { "name": "Starlight", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Purple", "image": "img/iphone-placeholder.svg" },
+          { "name": "(PRODUCT)RED", "image": "img/iphone-placeholder.svg" },
+          { "name": "Yellow", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-14-pro",
+    "name": "iPhone 14 Pro",
+    "storages": [
+      {
+        "size": "128GB",
+        "price_mwk": 2900000,
+        "colors": [
+          { "name": "Deep Purple", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" },
+          { "name": "Space Black", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "256GB",
+        "price_mwk": 3000000,
+        "colors": [
+          { "name": "Deep Purple", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" },
+          { "name": "Space Black", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-14-pro-max",
+    "name": "iPhone 14 Pro Max",
+    "storages": [
+      {
+        "size": "128GB",
+        "price_mwk": 3200000,
+        "colors": [
+          { "name": "Deep Purple", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" },
+          { "name": "Space Black", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "256GB",
+        "price_mwk": 3300000,
+        "colors": [
+          { "name": "Deep Purple", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" },
+          { "name": "Space Black", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "512GB",
+        "price_mwk": 3400000,
+        "colors": [
+          { "name": "Deep Purple", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" },
+          { "name": "Space Black", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "1TB",
+        "price_mwk": 3500000,
+        "colors": [
+          { "name": "Deep Purple", "image": "img/iphone-placeholder.svg" },
+          { "name": "Gold", "image": "img/iphone-placeholder.svg" },
+          { "name": "Silver", "image": "img/iphone-placeholder.svg" },
+          { "name": "Space Black", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-15",
+    "name": "iPhone 15",
+    "storages": [
+      {
+        "size": "128GB",
+        "price_mwk": 2900000,
+        "colors": [
+          { "name": "Pink", "image": "img/iphone-placeholder.svg" },
+          { "name": "Yellow", "image": "img/iphone-placeholder.svg" },
+          { "name": "Green", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Black", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "256GB",
+        "price_mwk": 3100000,
+        "colors": [
+          { "name": "Pink", "image": "img/iphone-placeholder.svg" },
+          { "name": "Yellow", "image": "img/iphone-placeholder.svg" },
+          { "name": "Green", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Black", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-15-plus",
+    "name": "iPhone 15 Plus",
+    "storages": [
+      {
+        "size": "128GB",
+        "price_mwk": 3200000,
+        "colors": [
+          { "name": "Pink", "image": "img/iphone-placeholder.svg" },
+          { "name": "Yellow", "image": "img/iphone-placeholder.svg" },
+          { "name": "Green", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Black", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "256GB",
+        "price_mwk": 3400000,
+        "colors": [
+          { "name": "Pink", "image": "img/iphone-placeholder.svg" },
+          { "name": "Yellow", "image": "img/iphone-placeholder.svg" },
+          { "name": "Green", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Black", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-15-pro",
+    "name": "iPhone 15 Pro",
+    "storages": [
+      {
+        "size": "128GB",
+        "price_mwk": 3400000,
+        "colors": [
+          { "name": "Natural Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "White Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "Black Titanium", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "256GB",
+        "price_mwk": 3600000,
+        "colors": [
+          { "name": "Natural Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "White Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "Black Titanium", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-15-pro-max",
+    "name": "iPhone 15 Pro Max",
+    "storages": [
+      {
+        "size": "256GB",
+        "price_mwk": 3900000,
+        "colors": [
+          { "name": "Natural Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "White Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "Black Titanium", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "512GB",
+        "price_mwk": 4100000,
+        "colors": [
+          { "name": "Natural Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "White Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "Black Titanium", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "1TB",
+        "price_mwk": 4300000,
+        "colors": [
+          { "name": "Natural Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "White Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "Black Titanium", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-16",
+    "name": "iPhone 16",
+    "storages": [
+      {
+        "size": "128GB",
+        "price_mwk": 3700000,
+        "colors": [
+          { "name": "Black", "image": "img/iphone-placeholder.svg" },
+          { "name": "White", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Green", "image": "img/iphone-placeholder.svg" },
+          { "name": "Pink", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "256GB",
+        "price_mwk": 3900000,
+        "colors": [
+          { "name": "Black", "image": "img/iphone-placeholder.svg" },
+          { "name": "White", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Green", "image": "img/iphone-placeholder.svg" },
+          { "name": "Pink", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-16-plus",
+    "name": "iPhone 16 Plus",
+    "storages": [
+      {
+        "size": "128GB",
+        "price_mwk": 4000000,
+        "colors": [
+          { "name": "Black", "image": "img/iphone-placeholder.svg" },
+          { "name": "White", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Green", "image": "img/iphone-placeholder.svg" },
+          { "name": "Pink", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "256GB",
+        "price_mwk": 4200000,
+        "colors": [
+          { "name": "Black", "image": "img/iphone-placeholder.svg" },
+          { "name": "White", "image": "img/iphone-placeholder.svg" },
+          { "name": "Blue", "image": "img/iphone-placeholder.svg" },
+          { "name": "Green", "image": "img/iphone-placeholder.svg" },
+          { "name": "Pink", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-16-pro",
+    "name": "iPhone 16 Pro",
+    "storages": [
+      {
+        "size": "128GB",
+        "price_mwk": 4550000,
+        "colors": [
+          { "name": "Natural Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "Desert Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "White Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "Black Titanium", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "256GB",
+        "price_mwk": 4750000,
+        "colors": [
+          { "name": "Natural Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "Desert Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "White Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "Black Titanium", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "iphone-16-pro-max",
+    "name": "iPhone 16 Pro Max",
+    "storages": [
+      {
+        "size": "256GB",
+        "price_mwk": 5400000,
+        "colors": [
+          { "name": "Natural Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "Desert Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "White Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "Black Titanium", "image": "img/iphone-placeholder.svg" }
+        ]
+      },
+      {
+        "size": "512GB",
+        "price_mwk": 5600000,
+        "colors": [
+          { "name": "Natural Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "Desert Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "White Titanium", "image": "img/iphone-placeholder.svg" },
+          { "name": "Black Titanium", "image": "img/iphone-placeholder.svg" }
+        ]
+      }
+    ]
+  }
+]
+
