@@ -1,61 +1,55 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>RangeBrothers — Premium Phones in Malawi</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-
-<body>
-
-<header class="navbar">
-  <div class="nav-left">
-    <a href="index.html">
-      <img src="img/rangebrothers-logo.png" class="logo" />
-    </a>
-    <span class="brand-name">RangeBrothers</span>
-  </div>
-
-  <nav class="nav-links">
-    <a href="index.html#shop">Shop</a>
-    <a href="product.html?id=iphone-11">Example Product</a>
-  </nav>
-
-  <button id="cartButton" class="cart-btn">
-    🛒 <span id="cartCount">0</span>
-  </button>
-</header>
-
-<section class="hero">
-  <h1>Premium iPhones Delivered in Malawi</h1>
-  <p>Imported. Brand New. Trusted Seller.</p>
-  <a href="#shop" class="btn-main">Shop Now</a>
-</section>
-
-<section id="shop" class="section">
-  <h2>Available Phones</h2>
-  <div id="productsGrid" class="product-grid"></div>
-</section>
-
-<!-- CART OVERLAY -->
-<div id="cartOverlay" class="cart-overlay hidden">
-  <div class="cart-content">
-    <button id="cartClose">✕</button>
-    <h3>Your Cart</h3>
-    <div id="cartItems"></div>
-    <div class="cart-footer">
-      <p>Total: <span id="cartTotal">MWK 0</span></p>
-      <a id="cartWhatsApp" class="btn-main" target="_blank">Order on WhatsApp</a>
-      <button id="clearCart" class="btn-outline">Clear Cart</button>
+<div class="quick-view-content">
+    
+    <div class="product-image-section">
+        <div class="product-image-container">
+            <img id="qv-main-image" src="images/iphone-x-silver.png" alt="iPhone X in Silver" class="apple-product-image">
+        </div>
+        
+        <div class="color-options">
+            <p class="color-label">Color:</p>
+            <div class="color-swatches">
+                <button class="swatch silver" data-color="silver" data-image="images/iphone-x-silver.png"></button>
+                <button class="swatch space-gray active" data-color="space-gray" data-image="images/iphone-x-space-gray.png"></button>
+            </div>
+        </div>
     </div>
-  </div>
-</div>
-  
-<footer>
-  <p>© <span id="year"></span> RangeBrothers</p>
-</footer>
+    
+    <div class="product-details-section">
+        
+        <h2 class="product-title">Refurbished iPhone X</h2>
+        <p class="service-tagline">Grade A: Like New Condition, 1-Year Warranty</p>
 
-<script src="main.js?v=1"></script>
-</body>
-</html>
+        <div class="price-block">
+            <span class="current-price">$399.00</span>
+            <span class="original-price">$799.00 new</span>
+        </div>
+
+        <hr>
+
+        <div class="condition-selector">
+            <p class="condition-label">Condition Grade:</p>
+            <select class="select-box">
+                <option value="grade-a">Grade A (Like New) - $399</option>
+                <option value="grade-b">Grade B (Excellent) - $349</option>
+                <option value="grade-c">Grade C (Good) - $299</option>
+            </select>
+        </div>
+
+        <div class="storage-selector">
+            <p class="storage-label">Storage:</p>
+            <div class="storage-buttons">
+                <button class="storage-btn active">64 GB</button>
+                <button class="storage-btn">256 GB</button>
+            </div>
+        </div>
+
+        <button class="add-to-cart-btn">Add to Cart</button>
+
+        <div class="trust-icons">
+            <p>✅ 1-Year Warranty</p>
+            <p>🚚 Free 3-Day Shipping</p>
+            <p>♻️ Eco-Friendly Certified</p>
+        </div>
+    </div>
+
+</div>
