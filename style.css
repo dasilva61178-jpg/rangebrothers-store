@@ -1,0 +1,218 @@
+/* ---------------------------------------------------
+   Global Styles
+--------------------------------------------------- */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #062312;
+  color: white;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+}
+
+h1, h2, h3 {
+  color: #d8ffe3;
+}
+
+button, a {
+  cursor: pointer;
+}
+
+
+/* ---------------------------------------------------
+   Navbar
+--------------------------------------------------- */
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: rgba(0,0,0,0.2);
+}
+
+.nav-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo {
+  width: 36px;
+}
+
+.nav-links a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #b5ffd1;
+}
+
+.cart-btn {
+  background: #0c4f29;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 8px;
+  color: white;
+  font-weight: bold;
+}
+
+
+/* ---------------------------------------------------
+   Hero Section
+--------------------------------------------------- */
+
+.hero {
+  padding: 100px 20px;
+  text-align: center;
+}
+
+.btn-main {
+  padding: 12px 22px;
+  background: #0dbf52;
+  border-radius: 10px;
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.btn-outline {
+  padding: 10px 20px;
+  border: 2px solid #0dbf52;
+  border-radius: 10px;
+  background: transparent;
+  color: #0dbf52;
+  text-decoration: none;
+}
+
+
+/* ---------------------------------------------------
+   Product Grid
+--------------------------------------------------- */
+
+.section {
+  padding: 50px 20px;
+}
+
+.product-grid {
+  display: grid;
+  gap: 25px;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+}
+
+.product-card {
+  background: rgba(0,0,0,0.3);
+  padding: 20px;
+  border-radius: 16px;
+}
+
+.product-image {
+  width: 100%;
+}
+
+.product-actions {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+.product-colors button {
+  width: 20px;
+  height: 20px;
+  background: #888;
+  border-radius: 50%;
+  border: none;
+  margin-right: 8px;
+}
+
+.product-colors .active {
+  outline: 2px solid white;
+}
+
+.storage-select {
+  padding: 6px;
+  margin-top: 6px;
+}
+
+
+/* ---------------------------------------------------
+   Cart Overlay
+--------------------------------------------------- */
+
+.cart-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  visibility: hidden;
+}
+
+.cart-overlay.visible {
+  visibility: visible;
+}
+
+.cart-content {
+  width: 350px;
+  background: #02200f;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.cart-footer {
+  margin-top: 20px;
+}
+
+
+/* ---------------------------------------------------
+   Product Detail Page
+--------------------------------------------------- */
+
+.product-detail-grid {
+  display: grid;
+  gap: 40px;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 40px;
+}
+
+.product-image-wrap-large {
+  background: rgba(255,255,255,0.1);
+  padding: 40px;
+  border-radius: 16px;
+  text-align: center;
+}
+
+.product-image-large {
+  width: 80%;
+  max-width: 380px;
+}
+
+.product-info-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+
+/* ---------------------------------------------------
+   Extension Protection (important)
+--------------------------------------------------- */
+
+[data-new-gr-c-s-check-loaded],
+[data-gr-ext-installed],
+[role="tooltip"],
+.gr__tooltip,
+.grammarly-extension {
+  pointer-events: none !important;
+}
+
+button, a, .product-actions *, .product-options * {
+  pointer-events: auto !important;
+}
